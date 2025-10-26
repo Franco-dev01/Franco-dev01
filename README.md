@@ -45,10 +45,3 @@ HTML • CSS • JavaScript • Node.js • React • Remix • C# • ASP.NET
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPLv3-yellow.svg)](https://opensource.org/licenses/GPL-3.0)
 [![AGPL License](https://img.shields.io/badge/License-AGPL-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-
----
-
-✅ Le bouton **Portfolio** renvoie maintenant correctement vers :
-👉 [https://me.iamfrancodev.com](https://me.iamfrancodev.com)
-
-Souhaites-tu que j’ajoute aussi une **prévisualisation de ton portfolio (mini capture ou GIF animé)** dans ton README ? Cela attire beaucoup plus de visiteurs.
