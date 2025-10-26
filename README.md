@@ -1,9 +1,9 @@
-# Hi 👋,I'm Franco dev
+# Hi 👋, I'm Franco Dev
 
 ## 🚀 About Me
- I'm software developer,
-I'm a passionate developer and my mission is to push boundaries and achieve what is considered unimaginable. 
-I'm constantly inspired by technical **challenges** and motivated by the possibility of creating innovative solutions 
+
+I'm a **software developer** passionate about pushing boundaries and achieving what others consider unimaginable.
+I’m constantly inspired by technical **challenges** and motivated by the opportunity to create innovative solutions
 that transform the way we interact with technology.
 
 <!--
@@ -20,31 +20,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ## 🛠 Skills
-HTML, CSS, JAVASCRIPT, NODEJS, REACT, REMIX, C#, ASP.NET
 
-## Tech Stack
+HTML • CSS • JavaScript • Node.js • React • Remix • C# • ASP.NET
 
-**Client:** React, Remix, Redux, TailwindCSS, Material-ui,
+## 🧩 Tech Stack
 
-**Server:** Node, Express, C#, .NET
+**Client:** React, Remix, Redux, Tailwind CSS, Material UI
+**Server:** Node.js, Express, C#, .NET
 
+## 🔗 Connect with Me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=ko-fi\&logoColor=white)](https://me.iamfrancodev.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/francis-kouakou-kouakou-427b06154/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge\&logo=twitter\&logoColor=white)](https://twitter.com/)
 
-## 🔗 Connect with me:
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([[[https://my-portfolio-taupe-tau-92.vercel.app](https://me.iamfrancodev.com](https://me.iamfrancodev.com)](https://me.iamfrancodev.com)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-kouakou-kouakou-427b06154/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-
-
-## License
+## 📜 License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## Badges
-
-Add badges from somewhere like: [shields.io](https://shields.io/)
+## 🏅 Badges
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+[![GPLv3 License](https://img.shields.io/badge/License-GPLv3-yellow.svg)](https://opensource.org/licenses/GPL-3.0)
+[![AGPL License](https://img.shields.io/badge/License-AGPL-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+
+---
+
+✅ Le bouton **Portfolio** renvoie maintenant correctement vers :
+👉 [https://me.iamfrancodev.com](https://me.iamfrancodev.com)
+
+Souhaites-tu que j’ajoute aussi une **prévisualisation de ton portfolio (mini capture ou GIF animé)** dans ton README ? Cela attire beaucoup plus de visiteurs.
